@@ -1,0 +1,1 @@
+this is the simplest site written in html and css for beginners, here you can figure out how and what works. IT IS ESSENTIAL TO INSTALL ALL FILES AND PUT THEM IN ONE FOLDER, OTHERWISE NOTHING WILL WORK
