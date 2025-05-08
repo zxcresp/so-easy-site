@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+        <title>ПЛЕЙЛИСТЫ ДОТА 2</title>
+    </head>
+
+    <body>
+        <h1><p class="title">ПЛЕЙЛИСТЫ ДЛЯ ИГРЫ В ДОТУ 2</p></h1>
+
+
+        <h2><div class="text">ЭТО ПЛЕЙЛИСТЫ ДЛЯ ИГРЫ В ДОТУ И ДРУГИЕ ЖЕСТКИЕ ИГРЫ, ЭТИ ПЛЕЙЛИСТЫ МЫ ПОДБИРАЛИ САМИ, ДА ЭТО ЖОСКА.</div></h2>
+        <h2><div class="text">ЭТИ ПЛЕЙЛИСТЫ ДАЮТ ЖЕСТКУ МОТИВАЦИЮ СЛОМАТЬ ТРОН НА 200+ММР АВГ</div></h2>
+        <h2><div class="text">ПРИЯТНОГО ПРОСЛУШИВАНИЯ, А МЫ ПОКА ЧТО ПОШЛИ НАХУЙ</div></h2>
+
+        <iframe class="border" width="560" height="315" src="https://www.youtube.com/embed/v_mp465dkTM?si=0KFkDnHawlCQNG4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="border" width="560" height="315" src="https://www.youtube.com/embed/v_mp465dkTM?si=0KFkDnHawlCQNG4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="border" width="560" height="315" src="https://www.youtube.com/embed/v_mp465dkTM?si=0KFkDnHawlCQNG4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+        <img class="block" src="cat.gif" alt="">
+        <img class="block" src="cat.gif" alt="">
+        <img class="block" src="cat.gif" alt="">
+        <img class="block" src="cat.gif" alt="">
+        
+        <h1>Created by kurwames and <a href="https://github.com/zxcresp">zxcresp</h1></a>
+    </body>
+</html>
+
